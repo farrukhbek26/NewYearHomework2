@@ -110,6 +110,7 @@ span p{
     position: relative;
     cursor: pointer;
     display: flex;
+    transition: 0.5s
 }
 .image .imagepage:hover{
     transform: translateY(-50px);
