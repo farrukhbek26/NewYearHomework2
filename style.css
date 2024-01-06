@@ -5,6 +5,8 @@
   box-sizing: border-box;
   font-family: "Dm-sans", sans-serif;
 }
+input, button{
+  font-family: "Dm-sans", sans-serif;
 
 body {
   padding: 50px;
@@ -120,6 +122,7 @@ span p {
   position: relative;
   cursor: pointer;
   display: flex;
+  translate: 0.5s
 }
 
 .image .imagepage:hover {
